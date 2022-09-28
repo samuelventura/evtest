@@ -20,3 +20,5 @@ Makefile.in
 
 /evtest
 /evtest-capture
+
+compile
